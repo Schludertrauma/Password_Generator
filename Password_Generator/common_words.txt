@@ -1,0 +1,86 @@
+password
+12345
+qwerty
+letmein
+welcome
+admin
+user
+test
+abcde
+iloveyou
+TODO
+FIXME
+NOTE
+IMPORTANT
+HACK
+BUG
+OPTIMIZE
+REVIEW
+DEBUG
+WARNING
+CAUTION
+WORKAROUND
+TEMP
+TEST
+CHECK
+LATER
+REMOVE
+DEPRECATED
+EXPLAIN
+QUESTION
+WHY
+HOW
+DONE
+ISSUE
+SKIP
+UPDATE
+Apple
+Microsoft
+Saudi Aramco
+Alphabet
+Amazon
+Nvidia
+Meta Platforms
+Berkshire Hathaway
+Tesla
+TSMC
+Johnson & Johnson
+JPMorgan Chase
+Visa
+ExxonMobil
+Samsung Electronics
+Nestlé
+LVMH
+Procter & Gamble
+UnitedHealth Group
+Roche
+Tencent
+Walmart
+Alibaba Group
+Toyota
+Shell
+Intel
+IBM
+SAP
+Oracle
+Chevron
+BP
+TotalEnergies
+Bank of America
+ICBC
+HSBC
+Goldman Sachs
+Pfizer
+Merck & Co.
+Novartis
+Sanofi
+Volkswagen
+BMW
+Mercedes-Benz Group
+Ford
+Hyundai
+Costco
+The Home Depot
+Unilever
+Coca-Cola
+PepsiCo
